@@ -6,14 +6,39 @@
 
 ---
 
+## Tài khoản test
+
+Dùng 2 trình duyệt / 2 cửa sổ ẩn danh để test chat realtime.
+
+### Tài khoản 1
+
+| Trường | Giá trị |
+|--------|---------|
+| Họ | Nguyen |
+| Tên | An |
+| Tên đăng nhập | `nguyenan01` |
+| Email | nguyenan01@gmail.com |
+| Mật khẩu | `123456` |
+
+### Tài khoản 2
+
+| Trường | Giá trị |
+|--------|---------|
+| Tên đăng nhập | `hoang` |
+| Mật khẩu | `Hoang@123` |
+
+**Gợi ý test:** đăng nhập cả 2 → kết bạn (nếu chưa) → mở chat → thử text, emoji, ảnh, typing.
+
+---
+
 ## Mục lục
 
+- [Tài khoản test](#tài-khoản-test)
 - [Giới thiệu](#giới-thiệu)
 - [Công nghệ sử dụng](#công-nghệ-sử-dụng)
 - [Chức năng đã làm](#chức-năng-đã-làm)
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Clone & chạy local](#clone--chạy-local)
-- [Tài khoản test](#tài-khoản-test)
 - [Deploy](#deploy)
 
 ---
@@ -195,31 +220,6 @@ VITE_SOCKET_URL=http://localhost:5001/
 ```
 
 Mở trình duyệt: **http://localhost:5174**
-
----
-
-## Tài khoản test
-
-Dùng 2 trình duyệt / 2 cửa sổ ẩn danh để test chat realtime.
-
-### Tài khoản 1
-
-| Trường | Giá trị |
-|--------|---------|
-| Họ | Nguyen |
-| Tên | An |
-| Tên đăng nhập | `nguyenan01` |
-| Email | nguyenan01@gmail.com |
-| Mật khẩu | `123456` |
-
-### Tài khoản 2
-
-| Trường | Giá trị |
-|--------|---------|
-| Tên đăng nhập | `hoang` |
-| Mật khẩu | `Hoang@123` |
-
-**Gợi ý test:** đăng nhập cả 2 → kết bạn (nếu chưa) → mở chat → thử text, emoji, ảnh, typing.
 
 ---
 
